@@ -13,6 +13,10 @@ body{
     color: #4d5ae5;
 }
 
+.logo-part{
+    color: #2e2f42;
+}
+
 ul, ol{
     list-style-type: none;
 }
